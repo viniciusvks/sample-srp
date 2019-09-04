@@ -2,8 +2,6 @@ package br.org.fundatec.lp3.srp.calculadora;
 
 import br.org.fundatec.lp3.srp.funcionario.Cargo;
 import br.org.fundatec.lp3.srp.funcionario.Funcionario;
-import br.org.fundatec.lp3.srp.regradecalculo.DezOuVintePorCento;
-import br.org.fundatec.lp3.srp.regradecalculo.QuinzeOuVinteCincoPorCento;
 import br.org.fundatec.lp3.srp.regradecalculo.RegraDeCalculo;
 
 public class CalculadoraDeSalario {
